@@ -1,0 +1,8 @@
+.red-button {
+
+  padding: 7rem;
+  background-color: aquamarine;
+  color: gray;
+  font-weight: bold;
+  border-radius: 20%;
+}
